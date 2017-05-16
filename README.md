@@ -1,17 +1,9 @@
 # gitHubTest-2017-05-15
 
 ## Second level Title
-
-### Third level title
-
-1. FISRT ITEM
-2. SECOND ITEM
+1. first item
+2. second item
 3. third item
-
 *italics*
-
 **bold**
-
-
-
-
+### Third title
